@@ -1,4 +1,4 @@
-# Stuxnet-Source
+# Stuxnet-Source Hidden Mallware For Botnet
 STUXNET is a Worm that attacked Nuclear Power plants, trough unusual Vulns. So-called 0Day Vulns.
 
 
@@ -11,7 +11,7 @@ Includes:
 - PLC Sample program - [with usage, etc.]
 
 Malware samples I have, which I *may* provide for further research:
-- Fanny (known as fanny.bmp or, the classical a,b,c,d,e,...,__j__.lnk worm, propagates trough Removable USB devices, which has a extremely sophisticated Rootkit, which not only hides itself, but adds itself at startup in the reg in windows machines, but it has also some other, quite shocking capabilities, such as a submodule to re-program hardware, (more specifically, HDD's Firmware) for **Extreme persistence.**)
+- Fanny (known as fanny.bmp or, the classical a,b,c,d,e,...,__j__.lnk worm, propagates trough Removable USB devices But He can uses For Botnet, which has a extremely sophisticated Rootkit, which not only hides itself, but adds itself at startup in the reg in windows machines, but it has also some other, quite shocking capabilities, such as a submodule to re-program hardware, (more specifically, HDD's Firmware) for **Extreme persistence.**)
    It exploited same vulns as Stuxnet did, and has striking similarities with it, and was used **before even Stuxnet was used**)
    
    Link to fanny.bmp: https://github.com/loneicewolf/fanny.bmp
